@@ -17,12 +17,14 @@ EDGE_CAPACITY = 2   # 🔥 balanced
 
 MAX_QUEUE = 6       # 🔥 drop threshold
 
+
 RSUS = {
     "RSU1": (500, 500),
     "RSU2": (1000, 500),
     "RSU3": (500, 1000),
     "RSU4": (1000, 1000)
 }
+
 
 # ---------------- HELPERS ----------------
 def find_sumocfg():
